@@ -1,0 +1,24 @@
+1. let array = [1, 2, 3]
+2. array[1] 
+    returns 2
+3. number, string, undefined
+4.  if (1+1 == 2) {
+    true;
+    }
+5. for (let i=0; i<myArray.length; i++){emptyArray[i] = myArray[i]}
+
+
+# Functions
+1. function MyName() {
+        return "Johan";
+    }
+    name = MyName();
+2. function Person(firstName, lastName) {
+        return firstName + " " + lastName;
+    }
+    firstName = "Johan";
+    lastName = "Sundqvist";
+    fullName = Person(firstName, lastName);
+
+# Classes
+# 1. ´this´ refers to the current object. In Ruby we used the object name (variable? instance?) instead, e.g. <object>.name instead of this.name
